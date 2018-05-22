@@ -5,8 +5,15 @@ h1 {
 h2 {
   font: arial;
   font-style: oblique;
+  text-align: justify;
 }
 
 p {
   font-size: 13;
+  font-weight: lighter;
+}
+
+ul {
+  font-family: fantasy;
+  line-height: normal;
 }
